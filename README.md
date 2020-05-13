@@ -1,6 +1,8 @@
 # tec-Music-Box
 TEC-1 to IO data from music box that reads paper for load programs and play music
 
+![](https://github.com/SteveJustin1963/tec-Music-Box/blob/master/pics/tape1.png)
+
 convert sounds to data (ADC, filters, etc) or switch contacts to data
 
 30 wide tape, 2k code = 2048/30 = 69 lines of code
